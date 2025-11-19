@@ -590,6 +590,7 @@ This is a list of grammars that Linguist selects to provide syntax highlighting 
 - **Standard ML:** [textmate/standard-ml.tmbundle](https://github.com/textmate/standard-ml.tmbundle)
 - **Starlark:** [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython)
 - **Stata:** [pschumm/Stata.tmbundle](https://github.com/pschumm/Stata.tmbundle)
+- **StrictDoc:** [strictdoc-project/strictdoc.tmLanguage](https://github.com/strictdoc-project/strictdoc.tmLanguage)
 - **StringTemplate:** [Alhadis/language-etc](https://github.com/Alhadis/language-etc)
 - **Stylus:** [billymoon/Stylus](https://github.com/billymoon/Stylus)
 - **SubRip Text:** [Alhadis/language-subtitles](https://github.com/Alhadis/language-subtitles)

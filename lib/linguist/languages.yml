@@ -7393,6 +7393,13 @@ Stata:
   tm_scope: source.stata
   ace_mode: text
   language_id: 358
+StrictDoc:
+  type: markup
+  color: "#000000"
+  extensions:
+  - ".sdoc"
+  tm_scope: text.strictdoc
+  ace_mode: text
 StringTemplate:
   type: markup
   color: "#3fb34f"

@@ -1154,6 +1154,9 @@
 [submodule "vendor/grammars/standard-ml.tmbundle"]
 	path = vendor/grammars/standard-ml.tmbundle
 	url = https://github.com/textmate/standard-ml.tmbundle
+[submodule "vendor/grammars/strictdoc.tmLanguage"]
+	path = vendor/grammars/strictdoc.tmLanguage
+	url = https://github.com/strictdoc-project/strictdoc.tmLanguage.git
 [submodule "vendor/grammars/sublime-MuPAD"]
 	path = vendor/grammars/sublime-MuPAD
 	url = https://github.com/ccreutzig/sublime-MuPAD
